@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @reskipper
+# 👋 Hi, I’m Crescent/Skipper
 
-![](http://antzuhl.cn:4000/get/@reskipper.readme)
+- I'm using GitHub repositories to document different types of projects.
 
 <!---
 - 👀 I’m interested in ...
