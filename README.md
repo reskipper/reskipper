@@ -6,6 +6,15 @@ My current research interests include interpretable distributed intelligence and
 
 I'm trying to document different types of projects using GitHub repositories. 🤔
 
+<p align="center">
+  </a>
+  <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  </a>
+</p>
+
+------
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
