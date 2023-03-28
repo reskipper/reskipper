@@ -2,9 +2,7 @@
 
 This is [Crescent/Skipper](https://reskipper.github.io/) </a> <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu"> <img src="./icons8-zhihu-512.png" width="32px"/> </a>, a PhD student at Beijing University of Posts and Telecommunications (**BUPT**).
 
-My current research interests include interpretable distributed intelligence and its application in mobile communication.
-
-I'm trying to document different types of projects using GitHub repositories.
+My primary research interest lies in the field of distributed intelligence, specifically its application in mobile communication.
 
 <!---
 - 👀 I’m interested in ...
