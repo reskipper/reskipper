@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-This is [Crescent/Skipper](https://reskipper.github.io/) </a> <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu"> <img src="./icons8-zhihu-512.png" width="32px"/> </a>, a PhD student at Beijing University of Posts and Telecommunications (**BUPT**).
+This is [Crescent/Skipper](https://reskipper.github.io/) </a> <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu"> <img src="./icons8-zhihu-512.png" width="32px"/> </a>, a student at Beijing University of Posts and Telecommunications (**BUPT**).
 
 My primary research interest lies in the field of distributed intelligence, specifically its application in mobile communication.
 
