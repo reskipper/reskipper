@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-This is Crescent/Skipper </a> <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu"> <img src="./icons8-zhihu-512.png" width="32px"/> </a>.
+This is skippershih.
+
+
+<!---
+</a> <a href="https://www.zhihu.com/people/Cathode" target="_blank" alt="Zhihu" title="Zhihu"> <img src="./icons8-zhihu-512.png" width="32px"/> </a>.
+--->
 
 <!---
 - 👀 I’m interested in ...
